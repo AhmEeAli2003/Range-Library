@@ -3,7 +3,7 @@
  *   @file          : range.h
  *   @author        : Ahmed Ali
  *   @brief         : Create range function to use it instead of range operator.
- *	 @date			: 3 / 9 / 2022 
+ *   @date	    : 3 / 9 / 2022 
  ****************************************************************************************
 */
 
